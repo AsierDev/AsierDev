@@ -79,13 +79,13 @@ Frontend Developer with **8+ years of experience**. I specialize in scalable Rea
   <details>
     <summary><b>View GitHub Stats</b></summary>
     <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&bg_color=0d1117&title_color=a3b18a&icon_color=588157&text_color=e5e7eb&hide_border=true&count_private=true">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="160">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&bg_color=0d1117&text_color=e5e7eb&hide_border=true&langs_count=6">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&hide_border=true&langs_count=6" height="160" />
-    </picture>
+    <p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&bg_color=0d1117&title_color=a3b18a&icon_color=588157&text_color=e5e7eb&hide_border=true" alt="AsierDev GitHub Stats" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&bg_color=0d1117&text_color=e5e7eb&hide_border=true&langs_count=6" alt="AsierDev Top Languages" />
+      </a>
+    </p>
   </details>
 </div>
