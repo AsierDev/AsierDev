@@ -1,20 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=588157&height=200&section=header&text=AsierDev&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Software%20Developer&descFontSize=18&descAlign=50&descAlignY=65" width="100%"/>
 
-  <br />
-
-  <!--
-  <a href="https://asierdev.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-353535?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/asier-p/">
-    <img src="https://img.shields.io/badge/LINKEDIN-353535?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
-  -->
 </div>
-
-<br/>
 
 ### About
 
@@ -23,6 +10,16 @@
 </a>
 
 Frontend Developer with **8+ years of experience**. I specialize in scalable React architectures and product-oriented UI engineering. Currently focused on building **AI-assisted tooling**, browser extensions, and accessible web apps.
+
+<!--
+  <a href="https://asierdev.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-353535?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asier-p/">
+    <img src="https://img.shields.io/badge/LINKEDIN-353535?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+  </a>
+-->
 
 ---
 
@@ -74,18 +71,33 @@ Frontend Developer with **8+ years of experience**. I specialize in scalable Rea
 * ✅ **Culture:** Strong background in remote-first collaboration with Product & Design.
 
 <br/>
-
+<!--
 <div align="center">
-  <details>
-    <summary><b>View GitHub Stats</b></summary>
-    <br/>
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160" src="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&bg_color=0d1117&title_color=a3b18a&icon_color=588157&text_color=e5e7eb&hide_border=true" alt="AsierDev GitHub Stats" />
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&bg_color=0d1117&text_color=e5e7eb&hide_border=true&langs_count=6" alt="AsierDev Top Languages" />
-      </a>
-    </p>
-  </details>
+ <details>
+  <summary><b>📊 View GitHub Stats</b></summary>
+
+  <br/>
+
+  <div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&bg_color=0d1117&title_color=a3b18a&icon_color=588157&text_color=e5e7eb&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&bg_color=ffffff&title_color=000000&icon_color=588157&text_color=333333&hide_border=true">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=AsierDev&show_icons=true&hide_title=true&bg_color=0d1117&title_color=a3b18a&icon_color=588157&text_color=e5e7eb&hide_border=true" alt="GitHub Stats">
+    </picture>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&bg_color=0d1117&title_color=a3b18a&text_color=e5e7eb&hide_border=true&langs_count=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&bg_color=ffffff&title_color=000000&text_color=333333&hide_border=true&langs_count=6">
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierDev&layout=compact&hide_title=true&bg_color=0d1117&title_color=a3b18a&text_color=e5e7eb&hide_border=true&langs_count=6" alt="Top Languages">
+    </picture>
+  </a>
+
+  </div>
+</details>
+
 </div>
+-->
