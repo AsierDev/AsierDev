@@ -27,6 +27,7 @@
 - **Architecture** — Scalable React/TS migrations & Design Systems
 - **Quality** — A11y, strict testing (Jest/Vitest), CI/CD
 - **Tooling** — Chrome & VS Code extensions, AI workflow automation
+- **Open Source** — [npm packages](https://www.npmjs.com/~asierdev) for developer experience
 
 ---
 
@@ -34,8 +35,11 @@
 
 > *Full details, demos & tech stack on my **[portfolio](https://asierdev.github.io)***
 
+<br/>
+
 | Project | Type |
 | :--- | :--- |
+| [zero-setup-biome](https://github.com/AsierDev/zero-setup-biome) | npm CLI Package |
 | [Price History Tracker](https://github.com/AsierDev/price-history-tracker) | Chrome Extension |
 | [MicroWins](https://github.com/AsierDev/microwins-app) | Flutter App |
 | [Pocket Promptsmith](https://github.com/AsierDev/pocket-promptsmith) | Next.js PWA |
